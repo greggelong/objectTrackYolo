@@ -6,6 +6,12 @@ https://youtu.be/s5xdH9aluds?si=KgL5eeSWpCaE9vaK
 
 https://core-electronics.com.au/guides/raspberry-pi/custom-object-detection-models-without-training-yoloe-and-raspberry-pi/
 
+crack3deepsetclass -- shows you must set class using YOLOE
+
+macyoloenp -- no prompt YOLOE will built in classes
+
+yolo11ntest -- earlier less good yolon
+
 ## 📋 Overview
 
 This guide provides comprehensive documentation for running YOLOE (YOLO with Embeddings) object detection on macOS using a webcam. YOLOE is a powerful vision model that accepts **text prompts** to detect custom objects without requiring training data.
